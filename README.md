@@ -1,4 +1,4 @@
-# Online Courses React.js Web App
+# Modern Online Courses React.js Web App
 
 This is an online course react website (front-end only). The website allows users to browse courses and view course details.
 
