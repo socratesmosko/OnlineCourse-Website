@@ -4,7 +4,6 @@ This is an online courses learning react web application. The website allows use
 
 Technologies Used:
 - React.js
-- HTML
 - CSS
 - JavaScript
 
@@ -17,7 +16,7 @@ Technologies Used:
 
 To start the application, you can run:
 
-### `npm start`
+### `npm install && npm start`
 
 ![Screenshot (263)](https://user-images.githubusercontent.com/119309614/222023647-f20ec677-d442-42cc-b8f7-307cc2d93ec4.png)
 
